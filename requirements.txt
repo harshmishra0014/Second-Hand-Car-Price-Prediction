@@ -15,7 +15,7 @@ Flask==2.2.2
 fonttools==4.38.0
 idna==3.4
 importlib-metadata==5.1.0
-ipykernel==6.17.1
+ipykernel==6.16.2
 ipython==8.6.0
 itsdangerous==2.1.2
 jedi==0.18.1
@@ -78,3 +78,4 @@ wcwidth==0.2.5
 Werkzeug==2.2.2
 wordcloud==1.8.2.2
 zipp==3.11.0
+gunicorn
